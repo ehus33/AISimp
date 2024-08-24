@@ -15,7 +15,7 @@ This project is a simple AI-powered chat application using OpenAI's GPT-3.5-turb
 
 ### Requirements
 
-- Python 3.x
+- Python 3.5
 - OpenAI Python Client Library
 - An OpenAI API key
 
@@ -23,8 +23,8 @@ This project is a simple AI-powered chat application using OpenAI's GPT-3.5-turb
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repository/ai-companion-chat.git
-   cd ai-companion-chat
+   git clone https://github.com/ehus33/AISimp.git
+   cd AISimp
    ```
 
 2. **Install required packages:**
@@ -45,7 +45,7 @@ To run the AI Companion Chat application:
 
 1. **Run the script:**
    ```bash
-   python ai_companion_chat.py
+   python ai_companion.py
    ```
 
 2. **Start the conversation:**
